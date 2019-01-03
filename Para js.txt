@@ -1,11 +1,11 @@
-1. Funciones:
-	-X alert()
+X 1. Funciones:
+	- alert()
 	- console.log()
 
 X 2. Uso de objetos (Browser BOM): Window navigator screen history location
 3. Uso de objetos (HTML DOM): Document, Elements, Attributes, Events, Style
 X 4. Eventos: click, load, etc.
-5. Manipulación del DOM: getElementByuID, etc.
+X 5. Manipulación del DOM: getElementByuID, etc.
 
 	< a href="#" id="mienlace" style="background-color: orange;">Enlace demo< /a >
 	< script >
