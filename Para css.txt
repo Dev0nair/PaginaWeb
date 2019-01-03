@@ -4,19 +4,19 @@ X 1. Se usara ficheros externos. Nada de style
 	-X opacity
 	-X margin
 	-X padding
-	- box-shadow
-	- text-shadow
+	-X box-shadow
+	-X text-shadow
 	- font (google-font)
-	- text-align
-	- width
+	-X text-align
+	-X width
 	-X background
-	- border
-	- display
+	-X border
+	-X display
 	-X list-style
-	- linear-gradient
+	-X linear-gradient
 	-X display block e inline-block (no en responsive)
 	-X float
-	- clear
+	-X clear
 	- transform (scale, rotate, translate)
 	- responsive y mobile first: media queries
 	
