@@ -1,21 +1,21 @@
-1. Se usara ficheros externos. Nada de style
+X 1. Se usara ficheros externos. Nada de style
 2. Usar estilos/reglas:
-	- border-radious
-	- opacity
-	- margin
-	- padding
+	-X border-radious
+	-X opacity
+	-X margin
+	-X padding
 	- box-shadow
 	- text-shadow
 	- font (google-font)
 	- text-align
 	- width
-	- background
+	-X background
 	- border
 	- display
-	- list-style
+	-X list-style
 	- linear-gradient
-	- display block e inline-block (no en responsive)
-	- float
+	-X display block e inline-block (no en responsive)
+	-X float
 	- clear
 	- transform (scale, rotate, translate)
 	- responsive y mobile first: media queries
