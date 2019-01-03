@@ -1,0 +1,5 @@
+X 1. Mi nombre en la pagina principal
+X 2. Usar la estructura correcta de html
+3. Formularios: input, type="text", type="radio", type="checkbox", type="hidden" type="button"
+4. Control de campos vacíos y de su valor
+5. Icono en las pestañas

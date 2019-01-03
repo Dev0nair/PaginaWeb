@@ -1,0 +1,25 @@
+1. Funciones:
+	- alert()
+	- console.log()
+
+2. Uso de objetos (Browser BOM): Window navigator screen history location
+3. Uso de objetos (HTML DOM): Document, Elements, Attributes, Events, Style
+4. Eventos: click, load, etc.
+5. Manipulación del DOM: getElementByuID, etc.
+
+	< a href="#" id="mienlace" style="background-color: orange;">Enlace demo< /a >
+	< script >
+	document.getElementById("mienlace").style.backgroundColor="orange";
+	< /script >
+
+6. Manejadores de eventos: onclick, onMouseOver, onMouseOut, de teclado y de ventana (onload)
+
+7. Manejadores de eventos con addEventListener()
+8. Selectores o referencias:
+	- getElementsByTagName
+	- getElementById
+	- getElementByClassName
+	- querySelectorAll()
+9. Ejemplos básicos: mostrar o ocultar información (texto) y modificar los estilos
+10. Ejemplos de validar y manipular un formulario
+11. Ejemplos mas complejos o creativos copiados de internet

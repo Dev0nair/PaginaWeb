@@ -1,0 +1,34 @@
+1. Se usara ficheros externos. Nada de style
+2. Usar estilos/reglas:
+	- border-radious
+	- opacity
+	- margin
+	- padding
+	- box-shadow
+	- text-shadow
+	- font (google-font)
+	- text-align
+	- width
+	- background
+	- border
+	- display
+	- list-style
+	- linear-gradient
+	- display block e inline-block (no en responsive)
+	- float
+	- clear
+	- transform (scale, rotate, translate)
+	- responsive y mobile first: media queries
+	
+		@media screen and (max-width: 300px) {
+			nav { display: none; }
+			article {
+				width: 100%;
+				height: 100px;
+			}
+		}
+
+		Responsive por tamaño y por densidad de pixel
+
+3. Control de video para los tipos de ficheros más usados: webm y mp4
+4. Tamaño de imágenes según resolución (srcset)
