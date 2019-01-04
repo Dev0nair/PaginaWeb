@@ -83,18 +83,24 @@ nav ul li:not(#active) a:hover{
 	ELEMENTOS DEL MENU
 */
 
+.menu img{
+	max-width: 200px;
+	max-height: 150px;
+	float: right;
+}
+
 .menu article{
 	width: 99.3%;
 	background-color: white;
 	border-radius: 10px 10px 10px;
 	border: solid 2px black;
+
 }
 
-.menu article p, .menu article h2{
+.menu article p, .menu article h2, .menu img{
 	margin-left: 3.5%;
-	margin-top: 3%;
+	margin-top: 2%;
 	margin-right: 3.5%;
-	margin-bottom: 3%;
 	clear: left;
 }
 
