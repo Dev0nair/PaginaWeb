@@ -67,7 +67,7 @@ nav ul li:not(#active) a:hover{
 	MENU INVISIBLE DESLIZABLE
 */
 
-.menu{
+#menu{
 	max-width: 600px;
 	height: auto;
 	max-height: 400px;
@@ -83,13 +83,13 @@ nav ul li:not(#active) a:hover{
 	ELEMENTOS DEL MENU
 */
 
-.menu img{
+#menu img{
 	max-width: 200px;
 	max-height: 150px;
 	float: right;
 }
 
-.menu article{
+#menu article{
 	width: 99.3%;
 	background-color: white;
 	border-radius: 10px 10px 10px;
@@ -97,14 +97,14 @@ nav ul li:not(#active) a:hover{
 
 }
 
-.menu article p, .menu article h2, .menu img{
+#menu article p, #menu article h2, #menu img{
 	margin-left: 3.5%;
 	margin-top: 2%;
 	margin-right: 3.5%;
 	clear: left;
 }
 
-.menu h2{
+#menu h2{
 	text-decoration: bold;
 	text-shadow: 1.6px 1.6px 1.6px;
 	text-align: left;
