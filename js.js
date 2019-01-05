@@ -9,7 +9,7 @@ function quitarPeliculas(){
 		console.log("No se ha encontrado ningún resultado por lo que se activaran todas las peliculas.");
 		ponerTodos();
 	} else {
-		document.getElementById("menu").style.boxShadow = "0px 0px 15px 5px white";
+		document.getElementById("movielist").style.boxShadow = "0px 0px 15px 5px white";
 	}
 
 }
@@ -48,5 +48,5 @@ function ponerTodos(){
 	for (var i = 0; i < peliculas.length; i++) {	
 		peliculas[i].style.display = "block";
 	}
-	document.getElementById("menu").style.boxShadow = "0px 0px 15px 5px blue";
+	document.getElementById("movielist").style.boxShadow = "0px 0px 15px 5px blue";
 }

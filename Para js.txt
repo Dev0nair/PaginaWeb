@@ -3,7 +3,7 @@ X 1. Funciones:
 	- console.log()
 
 X 2. Uso de objetos (Browser BOM): Window navigator screen history location
-3. Uso de objetos (HTML DOM): Document, Elements, Attributes, Events, Style
+X 3. Uso de objetos (HTML DOM): Document, Elements, Attributes, Events, Style
 X 4. Eventos: click, load, etc.
 X 5. Manipulación del DOM: getElementByuID, etc.
 
@@ -21,5 +21,4 @@ X 8. Selectores o referencias:
 	- getElementByClassName
 	- querySelectorAll()
 X 9. Ejemplos básicos: mostrar o ocultar información (texto) y modificar los estilos
-10. Ejemplos de validar y manipular un formulario
-11. Ejemplos mas complejos o creativos copiados de internet
+X 10. Ejemplos de validar y manipular un formulario

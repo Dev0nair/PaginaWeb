@@ -3,6 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<script type="text/javascript" src="js.js"></script>
+	<script type="text/javascript" src="js3.js"></script>
 	<link rel="stylesheet" type="text/css" href="global.css">
 	<title>Página principal</title>
 </head>
@@ -19,7 +20,24 @@
 		</ul>
 	</nav>
 
-	<section class="opina">
+	<section id="opina" class="menu">
+		<article>
+			<form action="#" method="post" >
+			Nuevo nombre:</br>
+			<input type="text" name="nuevoNombre"></br></br>
+			Un radio button:</br>
+			<input type="radio" name="a" value="uno">uno</br>
+			<input type="radio" name="a" value="dos">dos</br>
+			<input type="radio" name="a" value="tres">tres</br></br>
+			Un checkbox: </br>
+			<input type="checkbox" name="b" value="uno">Comedia</br>
+			<input type="checkbox" name="b" value="dos">Terror</br>
+			<input type="checkbox" name="b" value="dos">Acción</br></br>
+			<input type="hidden" name="quien" value="pageUser">
+			<input type="button" value="Enviar" onclick="enviar()">
+			
+		</form>
+		</article>
 		
 	</section>
 
