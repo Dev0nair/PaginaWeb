@@ -11,6 +11,10 @@ function enviar(){
 	}
 }
 
+function mensajeCambio(){
+	
+}
+
 function comprobarVacios(){
 	var textos = document.getElementsByName('nuevoNombre');
 	var checks = document.getElementsByName('b');
