@@ -14,7 +14,7 @@ X 5. Manipulación del DOM: getElementByuID, etc.
 
 X 6. Manejadores de eventos: onclick, onMouseOver, onMouseOut, de teclado y de ventana (onload)
 
-7. Manejadores de eventos con addEventListener()
+X 7. Manejadores de eventos con addEventListener()
 X 8. Selectores o referencias:
 	- getElementsByTagName
 	- getElementById

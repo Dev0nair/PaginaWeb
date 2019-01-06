@@ -6,7 +6,7 @@ X 1. Se usara ficheros externos. Nada de style
 	-X padding
 	-X box-shadow
 	-X text-shadow
-	- font (google-font)
+	-X font (google-font)
 	-X text-align
 	-X width
 	-X background

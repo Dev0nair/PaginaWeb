@@ -11,9 +11,19 @@ function enviar(){
 	}
 }
 
-function mensajeCambio(){
+window.onload = function(){
+	var radios = document.getElementsByName('a');
+	
+	radios[0].addEventListener("click", function(){mostrarRadio(radios[0].value)});
+	radios[1].addEventListener("click", function(){mostrarRadio(radios[1].value)});
+	radios[2].addEventListener("click", function(){mostrarRadio(radios[2].value)});
 	
 }
+
+function mostrarRadio(nombre){
+	alert("Has elegido: " + nombre);
+}
+
 
 function comprobarVacios(){
 	var textos = document.getElementsByName('nuevoNombre');
