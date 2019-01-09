@@ -18,7 +18,7 @@ X 1. Se usara ficheros externos. Nada de style
 	-X float
 	-X clear
 	- transform (scale, rotate, translate)
-	- responsive y mobile first: media queries
+	-X responsive y mobile first: media queries
 	
 		@media screen and (max-width: 300px) {
 			nav { display: none; }

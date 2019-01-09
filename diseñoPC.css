@@ -38,7 +38,7 @@
 		ELEMENTOS DEL MENU
 	*/
 
-	.menu img{
+	.menu img:not(.mySlides){
 		max-width: 200px;
 		max-height: 150px;
 		float: right;
@@ -51,5 +51,19 @@
 	.menu h2{
 		text-align: left;
 	}
+
+	/*
+		NUEVAS PELICULAS
+	*/
+
+	.news img{
+		max-width: 540px;
+		max-height: 260px;
+		display: block;
+		margin: 0 auto;
+		margin-bottom: 3%;
+		border-radius: 10px 10px 10px;
+	}
+	
 
 }

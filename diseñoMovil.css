@@ -63,4 +63,17 @@
 		text-align: center;
 	}
 
+	/*
+		PELICULAS NUEVAS
+	*/
+
+	.news img{
+		max-width: 240px;
+		max-height: 100px;
+		display: block;
+		margin: 0 auto;
+		margin-bottom: 20px;
+		border-radius: 10px 10px 10px;
+	}
+
 }
