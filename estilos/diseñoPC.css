@@ -1,4 +1,4 @@
-@media only screen and (min-width: 360px) {
+@media only screen and (min-width: 366px) {
 	/*
 		CONFIGURACION DEL NAVEGADOR
 	*/
@@ -75,6 +75,8 @@
 
 	#trailers video{
 		border-radius: 10px 10px 10px 10px;
+		width: 90%;
+		height: 90%;
 	}
 
 	#trailers h2{

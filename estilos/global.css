@@ -74,3 +74,21 @@ header h1{
 	text-decoration: bold;
 	text-shadow: 1.6px 1.6px 1.6px;
 }
+
+/*
+	TRAILERS
+*/
+
+#trailers{
+	text-align: center;
+}
+
+#trailers video{
+	border-radius: 10px 10px 10px 10px;
+	width: 90%;
+	height: 90%;
+}
+
+#trailers h2{
+	margin-bottom: 0;
+}

@@ -1,4 +1,4 @@
-@media only screen and (max-width: 359px) {
+@media only screen and (max-width: 365px) {
 	/*
 		CONFIGURACION DEL NAVEGADOR
 	*/
@@ -14,7 +14,7 @@
 		height: 22px;
 		width: 150px;
 		float: left;
-		margin-top: 1.5%;
+		margin-top: 1.4%;
 		margin-left: 40%;
 		border-radius: 10px 10px 10px;
 		padding-left: 20px; 
@@ -28,7 +28,7 @@
 	nav ul{
 		width: 55px;
 		height: 55px;
-		background-image: url("imagenes/expandir.png");
+		background-image: url("../imagenes/expandir.png");
 		background-size: 55px 55px;
 		background-repeat: no-repeat;
 		display: block;
@@ -46,6 +46,10 @@
 	/*
 		ELEMENTOS DEL MENU
 	*/
+
+	.menu {
+		margin-top: 15%;
+	}
 
 	.menu img{
 		max-width: 200px;
