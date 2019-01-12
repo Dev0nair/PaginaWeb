@@ -1,0 +1,85 @@
+@media only screen and (min-width: 360px) {
+	/*
+		CONFIGURACION DEL NAVEGADOR
+	*/
+
+	nav ul{
+		list-style-type: none;
+		padding: 0;
+		overflow: hidden;
+		background-color: white;
+		border-radius: 10px 10px 10px;
+		margin: 1%;
+		margin-top: 20px;
+	}
+
+	nav ul > li {
+		float: left;
+		max-width: 200px;
+	}
+
+	nav ul li a {
+		background-color:white;
+		color:black;
+		text-decoration:none;
+		padding:10px 12px;
+		display:block;
+	}
+
+	nav ul li:not(#active) a:hover{
+		border-bottom: solid 2px blue;
+	}
+
+	#active{
+		border-bottom: solid 2px blue;
+	}
+
+	/*
+		ELEMENTOS DEL MENU
+	*/
+
+	.menu img:not(.mySlides){
+		max-width: 200px;
+		max-height: 150px;
+		float: right;
+	}
+
+	.menu article p, .menu article h2, .menu img, .menu form{
+		clear: left;
+	}
+
+	.menu h2{
+		text-align: left;
+	}
+
+	/*
+		NUEVAS PELICULAS
+	*/
+
+	.news img{
+		max-width: 540px;
+		max-height: 260px;
+		display: block;
+		margin: 0 auto;
+		margin-bottom: 3%;
+		border-radius: 10px 10px 10px;
+	}
+
+	/*
+		TRAILERS
+	*/
+
+	#trailers{
+		text-align: center;
+	}
+
+	#trailers video{
+		border-radius: 10px 10px 10px 10px;
+	}
+
+	#trailers h2{
+		margin-bottom: 0;
+	}
+	
+
+}
